@@ -1,2 +1,2 @@
 # private_building_viz
-Visualization of Private Building Datas
+Visualization of Private Building Data
